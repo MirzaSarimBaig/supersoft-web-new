@@ -13290,6 +13290,7 @@ div[class*="col"]:nth-of-type(4n + 4)
 }
 
 .contact-item {
+  height: 100%;
   padding: 30px;
   background-color: #fff;
   border: 1px solid #efe6e6;

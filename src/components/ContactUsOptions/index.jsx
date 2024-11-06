@@ -26,7 +26,7 @@ const ContactUsOptions = () => {
                             </div>
                             <div className="contact-content">
                                 <h3 className="title">Visit Our Office</h3>
-                                <p>72 Main Drive, Calibry, FL</p>
+                                <p>3rd Floor, HBL Academic Center, IBA City Campus, Saddar, Karachi</p>
                             </div>
                         </div>
                     </div>
