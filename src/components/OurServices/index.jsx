@@ -30,7 +30,7 @@ const OurServices = () => {
                         <div className="section-header-wrapper">
                             <div className="section-header white">
                                 <h2 className="section-title">Our Awesome Services</h2>
-                                <p>Credibly grow premier ideas rather than bricks-and-clicks strategic theme areas distributed for stand-alone web-readiness.</p>
+                                <p>Supersoft Corporation offers a comprehensive range of IT solutions designed to elevate your business.</p>
                             </div>
                             <div className="section-header-btn">
                                 <a href="service" aria-label='View services' className="custom-btn two">View All Services <i className="icon-Group-2361 ml-2"></i></a>

@@ -70,7 +70,7 @@ const BrandSlider = () => {
                     <SwiperSlide>
                         <div className="swiper-slide">
                             <div className="brand-item">
-                                <img src="/images/brand/brand-1.png" alt="brand" />
+                                <img src="/images/brand/serco.png" alt="brand" class="h-50" />
                             </div>
                         </div>
                     </SwiperSlide>
@@ -78,37 +78,31 @@ const BrandSlider = () => {
 
                         <div className="swiper-slide">
                             <div className="brand-item">
-                                <img src="/images/brand/brand-1.png" alt="brand" />
+                                <img src="/images/brand/philips.png" alt="brand" class="h-25" />
                             </div>
                         </div>
                     </SwiperSlide><SwiperSlide>
                         <div className="swiper-slide">
                             <div className="brand-item">
-                                <img src="/images/brand/brand-1.png" alt="brand" />
+                                <img src="/images/brand/ubl.png" alt="brand" class="h-50" />
                             </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="swiper-slide">
                             <div className="brand-item">
-                                <img src="/images/brand/brand-1.png" alt="brand" />
+                                <img src="/images/brand/imc.png" alt="brand" class="h-50" />
                             </div>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="swiper-slide">
                             <div className="brand-item">
-                                <img src="/images/brand/brand-1.png" alt="brand" />
+                                <img src="/images/brand/mavryck.png" alt="brand" class="h-50" />
                             </div>
                         </div>
                     </SwiperSlide>
-                    <SwiperSlide>
-                        <div className="swiper-slide">
-                            <div className="brand-item">
-                                <img src="/images/brand/brand-1.png" alt="brand" />
-                            </div>
-                        </div>
-                    </SwiperSlide>
+
                 </Swiper>
             </div>
 

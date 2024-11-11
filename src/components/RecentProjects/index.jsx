@@ -38,7 +38,8 @@ const RecentProjects = () => {
                                 </div>
                                 <div className="project-overlay">
                                     <div className="overlay-content">
-                                        <h4 className="title"><a href="projectDetails" aria-label='Project details'>Brand redesign meanwhile <br /> focusing product</a></h4>
+                                        <h4 className="title"><a href="projectDetails" aria-label='Project details'>
+                                            My IMC Mobile App </a></h4>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +51,7 @@ const RecentProjects = () => {
                                 </div>
                                 <div className="project-overlay">
                                     <div className="overlay-content">
-                                        <h4 className="title"><a href="projectDetails" aria-label='Project Details'>Brand redesign meanwhile <br /> focusing product</a></h4>
+                                        <h4 className="title"><a href="projectDetails" aria-label='Project Details'>Mavryck AI Project Management Web App</a></h4>
                                     </div>
                                 </div>
                             </div>

@@ -9,11 +9,11 @@ const StartupSolutions = () => {
             <div className="wrapper demo-text">
                 <div className="marquee">
                     <span>
-                        STARTUP SOLUTIONS STARTUP SOLUTIONS STARTUP SOLUTIONS STARTUP SOLUTIONS STARTUP SOLUTIONS STARTUP SOLUTIONS STARTUP SOLUTIONS STARTUP SOLUTIONS
+                        STARTUP SOLUTION SMB SOLUTIONS ENTERPRISE SOLUTIONS CUSTOM SOLUTIONS
                     </span>
                 </div>
             </div>
-            <div className="container">
+            {/* <div className="container">
                 <div className="row justify-content-center mb-10-none">
                     <div className="col-xl-9">
                         <div className="call-to-action-wrapper">
@@ -27,7 +27,7 @@ const StartupSolutions = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </section>
     )
 }
